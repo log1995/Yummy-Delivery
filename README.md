@@ -15,7 +15,7 @@
 
 프로젝트 기능명세
 ---
-- [자세히 보기](https://github.com/f-lab-edu/Yummy-Delivery/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8)
+- [자세히 보기](https://github.com/log1995/yummy-delivery/wiki/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EB%8A%A5%EB%AA%85%EC%84%B8)
 
 프로젝트 사용기술
 ---
@@ -23,7 +23,7 @@
 
 정책
 ---
-- [자세히 보기](https://github.com/f-lab-edu/Yummy-Delivery/wiki/%EC%A0%95%EC%B1%85)
+- [자세히 보기](https://github.com/log1995/yummy-delivery/wiki/%EC%A0%95%EC%B1%85)
 
 ERD
 ---
